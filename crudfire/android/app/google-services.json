@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406145459213",
+    "project_id": "crudjose-fa2bd",
+    "storage_bucket": "crudjose-fa2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406145459213:android:cf69f203e459d52248e144",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.crudfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406145459213-c3cgbdfcute3e7vk02dbjsdjjgei40mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConRHp-HCMK5MjiwhHh_7bbGZx8oFeI18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406145459213-c3cgbdfcute3e7vk02dbjsdjjgei40mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
